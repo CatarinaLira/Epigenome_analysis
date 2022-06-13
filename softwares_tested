@@ -1,0 +1,17 @@
+
+Genoma de referência:
+https://solgenomics.net/organism/Solanum_lycopersicum/genome/
+
+
+BSseeker2 não mapeou bem - não vou usar
+https://guoweilong.github.io/BS_Seeker2/index.html
+
+
+BiSeq - pacote do R no Biocondutor - testei anteriormente (refazer com novo genoma de referência 4.0)
+https://bioconductor.org/packages/release/bioc/html/BiSeq.html
+
+
+Bismark - remapeando todos com novo genoma
+https://www.bioinformatics.babraham.ac.uk/projects/bismark/
+
+
